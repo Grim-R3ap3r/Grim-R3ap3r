@@ -21,13 +21,12 @@
 
 
 
-***
 
 
-- :books: Sophomore pursuing Integrated B.Tech + M.Tech Information Technology from [IIIT Gwalior](https://www.iiitm.ac.in/index.php/en/).
+-:books: Sophomore pursuing Integrated B.Tech + M.Tech Information Technology from [IIIT Gwalior](https://www.iiitm.ac.in/index.php/en/).
 
 
-***
+
 ## :1st_place_medal: **Skills** 
 **BlockChain,Cryptography,Googlechrome Web Development,Web Developement,Competitive Coding,Python developement,Solidity,Ethereum,Javascript,C++,C &Ethical Hacking**
 
