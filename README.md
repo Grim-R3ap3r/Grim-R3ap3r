@@ -1,5 +1,6 @@
 ### Hi there, I'm [Rathin R!](https://github.com/Grim-R3ap3r) 👋
 
+
 <a href="https://www.codechef.com/users/rathin_r">
   <img align="left" alt="Rathin R | Codechef" width="40px" src="https://user-images.githubusercontent.com/62543734/115986961-8cdce700-a5d0-11eb-8ed5-b43215278687.jpg" />
 </a>
@@ -22,9 +23,9 @@
 
 
 
-
--:books: Sophomore pursuing Integrated B.Tech + M.Tech Information Technology from [IIIT Gwalior](https://www.iiitm.ac.in/index.php/en/).
-
+***
+-    :books: Sophomore pursuing Integrated B.Tech + M.Tech Information Technology from [IIIT Gwalior](https://www.iiitm.ac.in/index.php/en/).
+***
 
 
 ## :1st_place_medal: **Skills** 
