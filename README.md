@@ -21,8 +21,8 @@
 
 
 ***
--
--    :books: Sophomore pursuing Integrated B.Tech + M.Tech Information Technology from [IIIT Gwalior](https://www.iiitm.ac.in/index.php/en/).
+
+   :books: Sophomore pursuing Integrated B.Tech + M.Tech Information Technology from [IIIT Gwalior](https://www.iiitm.ac.in/index.php/en/).
 ***
 
 
