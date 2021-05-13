@@ -26,7 +26,7 @@
 
 
 ## :1st_place_medal: **Skills** 
-**BlockChain,Cryptography,Googlechrome Web Development,Web Developement,Competitive Coding,Python developement,Solidity,Ethereum,Javascript,C++,C &Ethical Hacking**
+**BlockChain,Cryptography,Googlechrome Web Development,Competitive Coding,Python developement,Solidity,Ethereum,Javascript,C++,C &Ethical Hacking**
 
 ***
 
