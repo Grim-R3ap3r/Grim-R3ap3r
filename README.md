@@ -64,8 +64,7 @@
 
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-***
+
 ## Github Stats
 
 
@@ -106,7 +105,7 @@
 - :handshake: **Let's Connect At-**
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rathin%20R-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rathin-r-3bb5341ba/)](https://www.linkedin.com/in/rathin-r-3bb5341ba/)
-[![Gmail Badge](https://img.shields.io/badge/-ratfox124@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ratfox124@gmail.com)](mailto:shambhavishandilya01@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-ratfox124@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ratfox124@gmail.com)](mailto:ratfox124@gmail.com) 
 [![Instagram Badge](https://img.shields.io/badge/-@deadp002-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/deadp002/)](https://www.instagram.com/deadp002/)
 
 ***
