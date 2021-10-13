@@ -14,16 +14,13 @@
 </a>
 <a href="https://atcoder.jp/users/Grim_Reaper">
   <img align="left" alt="Rathin R|AtCoder" width="40px" src="https://user-images.githubusercontent.com/62543734/115991013-ec90bd80-a5e3-11eb-8534-3107b70e0b6b.png" />
-</a>
+</a></br>
+</br>
 
 
-
-
-
-
- 
-**:books: Sophomore pursuing Integrated B.Tech + M.Tech Information Technology from [IIIT Gwalior](https://www.iiitm.ac.in/index.php/en/).**
-
+***
+**:books: Currently in 3rd year pursuing Integrated B.Tech + M.Tech Information Technology from [IIIT Gwalior](https://www.iiitm.ac.in/index.php/en/).**
+***
 
 
 ## :1st_place_medal: **Skills** 
