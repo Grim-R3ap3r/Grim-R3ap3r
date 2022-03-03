@@ -1,4 +1,9 @@
+<div id="top"></div>
+
 ### Hi there, I'm [Rathin R!](https://github.com/Grim-R3ap3r)<img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+
+
+
 
 <a href="https://www.codechef.com/users/rathin_r">
   <img align="left" alt="Rathin R | Codechef" width="40px" src="https://user-images.githubusercontent.com/62543734/115986961-8cdce700-a5d0-11eb-8ed5-b43215278687.jpg" />
@@ -18,17 +23,23 @@
 </br>
 
 
-<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
+![pro](https://user-images.githubusercontent.com/62543734/156656854-3ac33fc4-0d18-4c3d-a163-a06874921465.png)
+
 
 
 ## :1st_place_medal: **Skills** 
-**BlockChain,Cryptography,Googlechrome Web Development,Competitive Coding,Python developement,Solidity,Ethereum,Javascript,C++,C &Ethical Hacking**
+
+![try](https://user-images.githubusercontent.com/62543734/156660050-6b826e49-72ee-47c9-a646-a261d4ca54eb.gif)
+
+
+
+
+<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
 ***
-
 - 🔭 I’m currently working on [blockchain](https://www.investopedia.com/terms/b/blockchain.asp)
 - 🌱 I’m currently learning solidity,ethereum,blockchain,selenium...etc :)
-- 💵 I'm currently developng a trading algorithm which could actually yield a 90% accuracy using neural networks and artificial intelligence.
+- 💵 I'm currently working  on building a crypto exchange
 - 💬 Ask me about anything [here](https://github.com/Grim-R3ap3r/Grim-R3ap3r/issues)
 
 ***
@@ -107,9 +118,13 @@
 [![Gmail Badge](https://img.shields.io/badge/-ratfox124@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ratfox124@gmail.com)](mailto:ratfox124@gmail.com) 
 [![Instagram Badge](https://img.shields.io/badge/-@deadp002-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/deadp002/)](https://www.instagram.com/deadp002/)
 
-***
-***
-Thanks for stopping by!
-<img align="right" alt="GIF" height="60px" src="https://media3.giphy.com/media/Vgr21IY5gbY2iinySW/giphy.gif?cid=ecf05e477irxoi6bz2fgvw0n90m8klke03di9w6rtup3eqfh&rid=giphy.gif" />
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=saloniankita&repo=Grim-R3ap3r&countColorcountColor&countColor=%237B1E7B"/>
+
+
+
+
+
+<img src="https://imgur.com/rilHVxA.png"/> 
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 
