@@ -18,9 +18,7 @@
 </br>
 
 
-***
-**:books: Currently in 3rd year pursuing Integrated B.Tech + M.Tech Information Technology from [IIIT Gwalior](https://www.iiitm.ac.in/index.php/en/).**
-***
+<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
 
 ## :1st_place_medal: **Skills** 
