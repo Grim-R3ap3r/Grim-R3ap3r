@@ -46,7 +46,7 @@
 ## :computer: Languages and Framework 
 <p align="left">
 <code><img height="35" src="https://user-images.githubusercontent.com/62543734/116005253-c985fe00-a623-11eb-8632-169c0d7a79b4.jpg"></code>
-<code><img height="35" src="https://user-images.githubusercontent.com/62543734/116005263-d6a2ed00-a623-11eb-9103-390fbbcbbc2c.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/62543734/116005263-d6a2ed00-a623-11eb-9103-390fbbcbbc2c.png"></code>
 <code><img height="35" src="https://user-images.githubusercontent.com/62543734/116005609-64cba300-a625-11eb-822c-fbb8d5a2fc60.png"></code>  
 <code><img height="35" src="https://user-images.githubusercontent.com/62543734/116005309-fe925080-a623-11eb-9a9e-63068f9a8e7f.png"></code>
 <code><img height="35" src="https://user-images.githubusercontent.com/62543734/116005318-0651f500-a624-11eb-8135-0b3fb0296eee.png"></code>
