@@ -22,8 +22,8 @@
 </a></br>
 </br>
 
+![git](https://user-images.githubusercontent.com/62543734/158012229-f2c3bcb5-0081-4b10-98c2-b3286fa63e7e.png)
 
-![pro](https://user-images.githubusercontent.com/62543734/156656854-3ac33fc4-0d18-4c3d-a163-a06874921465.png)
 
 
 
