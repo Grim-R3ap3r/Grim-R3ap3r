@@ -28,13 +28,12 @@
 
 
 ## :1st_place_medal: **Skills** 
-
 ![try](https://user-images.githubusercontent.com/62543734/156660050-6b826e49-72ee-47c9-a646-a261d4ca54eb.gif)
 
 
-
-
+<p align="right">
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
+</p>
 
 ***
 - 🔭 I’m currently working on [blockchain](https://www.investopedia.com/terms/b/blockchain.asp)
