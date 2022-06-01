@@ -38,7 +38,7 @@
 ***
 - 🔭 I’m currently working on [blockchain](https://www.investopedia.com/terms/b/blockchain.asp)
 - 🌱 I’m currently learning solidity,ethereum,blockchain,selenium...etc :)
-- 💵 I'm currently working  on building a crypto exchange
+- 💵 I'm currently working  on Collaborative Artiificial Intelligence
 - 💬 Ask me about anything [here](https://github.com/Grim-R3ap3r/Grim-R3ap3r/issues)
 
 ***
