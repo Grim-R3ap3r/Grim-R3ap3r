@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-### Hi there, I'm [Rathin R!](https://github.com/Grim-R3ap3r)<img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+### Hi there, I'm [Rathin R!](https://github.com/Grim-R3ap3r) <img height="30px" width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
 
 
