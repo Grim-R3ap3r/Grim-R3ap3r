@@ -8,21 +8,15 @@
 <a href="https://www.codechef.com/users/rathin_r">
   <img align="left" alt="Rathin R | Codechef" width="40px" src="https://user-images.githubusercontent.com/62543734/115986961-8cdce700-a5d0-11eb-8ed5-b43215278687.jpg" />
 </a>
-<a href="https://www.instagram.com/deadp002/">
-  <img align="left" alt="Rathin R | instagram" width="40px" src="https://user-images.githubusercontent.com/62543734/115987193-9b77ce00-a5d1-11eb-85b6-ab2bc1715d7c.jpg" />
-</a>
 <a href="https://www.linkedin.com/in/rathin-r-3bb5341ba/">
   <img align="left" alt="Rathin R|LinkedIn" width="40px" src="https://user-images.githubusercontent.com/62543734/115987548-20afb280-a5d3-11eb-86ed-7e0cd89f0be3.png" />
 </a>
-<a href="https://codeforces.com/profile/_Grim-Reaper_">
-  <img align="left" alt="Rathin R|  CodeForces" width="40px" src="https://user-images.githubusercontent.com/62543734/115990917-82781880-a5e3-11eb-9099-a2cf3c1e30e8.png" />
+<a href="https://leetcode.com/ratfox124/">
+  <img align="left" alt="Rathin R|LinkedIn" width="40px" src="https://github.com/Grim-R3ap3r/Grim-R3ap3r/assets/62543734/12ccc771-d2c6-4d9e-8b52-8615f2b8f53e" />
 </a>
-<a href="https://atcoder.jp/users/Grim_Reaper">
-  <img align="left" alt="Rathin R|AtCoder" width="40px" src="https://user-images.githubusercontent.com/62543734/115991013-ec90bd80-a5e3-11eb-8534-3107b70e0b6b.png" />
-</a></br>
+</br>
 </br>
 
-![git](https://user-images.githubusercontent.com/62543734/158012229-f2c3bcb5-0081-4b10-98c2-b3286fa63e7e.png)
 
 
 
