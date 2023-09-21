@@ -1,10 +1,6 @@
 <div id="top"></div>
 
 ### Hi there, I'm [Rathin R!](https://github.com/Grim-R3ap3r) <img height="30px" width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
-
-
-
-
 <a href="https://www.codechef.com/users/rathin_r">
   <img align="left" alt="Rathin R | Codechef" width="40px" src="https://user-images.githubusercontent.com/62543734/115986961-8cdce700-a5d0-11eb-8ed5-b43215278687.jpg" />
 </a>
