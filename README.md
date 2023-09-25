@@ -8,7 +8,7 @@
   <img align="left" alt="Rathin R|LinkedIn" width="40px" src="https://user-images.githubusercontent.com/62543734/115987548-20afb280-a5d3-11eb-86ed-7e0cd89f0be3.png" />
 </a>
 <a href="https://leetcode.com/ratfox124/">
-  <img align="left" alt="Rathin R|LinkedIn" width="40px" src="https://github.com/Grim-R3ap3r/Grim-R3ap3r/assets/62543734/12ccc771-d2c6-4d9e-8b52-8615f2b8f53e" />
+  <img align="left" alt="Rathin R|LinkedIn" width="40px" src="https://leetcode.com/ratfox124/" />
 </a>
 </br>
 </br>
