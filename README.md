@@ -16,6 +16,9 @@
 
 ![ssss](https://github.com/Grim-R3ap3r/Grim-R3ap3r/assets/62543734/cac4e246-dfb5-4dff-a6a2-f6c6fc6841b5)
 
+## **Contributions to private repositories** 
+![Screenshot from 2024-03-08 01-04-54](https://github.com/Grim-R3ap3r/Grim-R3ap3r/assets/62543734/8b39a3fb-fb98-4593-b9cb-2a3303e17dba)
+
 
 
 
