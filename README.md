@@ -14,7 +14,7 @@
 </br>
 
 
-![ssss](https://github.com/Grim-R3ap3r/Grim-R3ap3r/assets/62543734/cac4e246-dfb5-4dff-a6a2-f6c6fc6841b5)
+
 
 <p align="right">
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
